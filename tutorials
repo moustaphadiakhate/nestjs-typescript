@@ -1,0 +1,39 @@
+1. API with NestJS #1. Controllers, routing and the module structure
+2. API with NestJS #2. Setting up a PostgreSQL database with TypeORM
+3. API with NestJS #3. Authenticating users with bcrypt, Passport, JWT, and cookies
+4. API with NestJS #4. Error handling and data validation
+5. API with NestJS #5. Serializing the response with interceptors
+6. API with NestJS #6. Looking into dependency injection and modules
+7. API with NestJS #7. Creating relationships with Postgres and TypeORM
+8. API with NestJS #8. Writing unit tests
+9. API with NestJS #9. Testing services and controllers with integration tests
+10. API with NestJS #10. Uploading public files to Amazon S3
+11. API with NestJS #11. Managing private files with Amazon S3
+12. API with NestJS #12. Introduction to Elasticsearch
+13. API with NestJS #13. Implementing refresh tokens using JWT
+14. API with NestJS #14. Improving performance of our Postgres database with indexes
+15. API with NestJS #15. Defining transactions with PostgreSQL and TypeORM
+16. API with NestJS #16. Using the array data type with PostgreSQL and TypeORM
+17. API with NestJS #17. Offset and keyset pagination with PostgreSQL and TypeORM
+18. API with NestJS #18. Exploring the idea of microservices
+19. API with NestJS #19. Using RabbitMQ to communicate with microservices
+20. API with NestJS #20. Communicating with microservices using the gRPC framework
+21. API with NestJS #21. An introduction to CQRS
+22. API with NestJS #22. Storing JSON with PostgreSQL and TypeORM
+23. API with NestJS #23. Implementing in-memory cache to increase the performance
+24. API with NestJS #24. Cache with Redis. Running the app in a Node.js cluster
+25. API with NestJS #25. Sending scheduled emails with cron and Nodemailer
+26. API with NestJS #26. Real-time chat with WebSockets
+27. API with NestJS #27. Introduction to GraphQL. Queries, mutations, and authentication
+28. API with NestJS #28. Dealing in the N + 1 problem in GraphQL
+29. API with NestJS #29. Real-time updates with GraphQL subscriptions
+30. API with NestJS #30. Scalar types in GraphQL
+31. API with NestJS #31. Two-factor authentication
+32. API with NestJS #32. Introduction to Prisma with PostgreSQL
+33. API with NestJS #33. Managing PostgreSQL relationships with Prisma
+34. API with NestJS #34. Handling CPU-intensive tasks with queues
+35. API with NestJS #35. Using server-side sessions instead of JSON Web Tokens
+36. API with NestJS #36. Introduction to Stripe with React
+37. API with NestJS #37. Using Stripe to save credit cards for future use
+38. API with NestJS #38. Setting up recurring payments via subscriptions with Stripe
+39. API with NestJS #39. Reacting to Stripe events with webhooks
